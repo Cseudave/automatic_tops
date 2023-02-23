@@ -1,4 +1,4 @@
-# automatic_tops
+# Automatic_tops
 Automatización de videos cortos tipo tops para series, usando datos obtenidos con web scraping, entonces usar un algoritmo para calificarlos y ordenarlos del peor al mejor. Entonces, usando la API de Youtube se buscaron los mejores videos para con ellos editar un video corto usando MoviePy
 
 ## Objetivo
